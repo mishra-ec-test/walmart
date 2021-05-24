@@ -1,1 +1,2 @@
-Hello this is the script for git file.
+Hello this is the script for git file
+i am updating file.
